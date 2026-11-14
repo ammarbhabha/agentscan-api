@@ -6,7 +6,7 @@ Thank you for your interest in contributing! This guide will help you get starte
 
 ```bash
 # Clone the repo
-git clone https://github.com/Ammarplays/agentscan-api.git
+git clone https://github.com/ammarbhabha/agentscan-api.git
 cd agentscan-api
 
 # Install dependencies

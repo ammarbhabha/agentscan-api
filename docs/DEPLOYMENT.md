@@ -219,7 +219,7 @@ sudo -u postgres psql -c "ALTER USER agentscan PASSWORD 'your-strong-password';"
 ```bash
 # Clone
 cd /opt
-sudo git clone https://github.com/Ammarplays/agentscan-api.git
+sudo git clone https://github.com/ammarbhabha/agentscan-api.git
 cd agentscan-api
 
 # Install & build

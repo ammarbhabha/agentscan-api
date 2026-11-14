@@ -63,7 +63,7 @@ Get the API running locally in under 5 minutes.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Ammarplays/agentscan-api.git
+git clone https://github.com/ammarbhabha/agentscan-api.git
 cd agentscan-api
 
 # 2. Install dependencies
